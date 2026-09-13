@@ -1,0 +1,6 @@
+{
+  "name": "Mi Alacena",
+  "description": "App sencilla para administrar la alacena del hogar con control de caducidad y lista de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
